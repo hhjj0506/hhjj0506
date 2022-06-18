@@ -9,6 +9,7 @@
  Currently working on: <br>
  <li>Drone 3D Mapping & Navigation in an Indoor Smart Farm Using ROS</li>
  <li>Personal Project - Weightlifting related</li>
+ <li>Studying for PS</li>
  
  <br>
  
