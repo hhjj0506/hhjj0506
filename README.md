@@ -7,9 +7,13 @@
  I enjoy making useful services for people. <br> <br>
  
  Currently working on: <br>
- <li>Drone 3D Mapping & Navigation in an Indoor Smart Farm Using ROS</li>
- <li>Personal Project - Weightlifting related</li>
- <li>Studying for PS</li>
+ <dl>
+	 <dt>Drone 3D Mapping & Navigation in an Indoor Smart Farm Using ROS 2</dt>
+	 <dd>- Using ROS 2 and PX4 to make a drone autonomously navigate itself inside a smart farm</dd>
+	 <dt>Personal Project - Weightlifting related</dt>
+	 <dd>- Spring Boot</dd>
+	 <dt>Studying for PS</dt>
+ </dl>
  
  <br>
  
