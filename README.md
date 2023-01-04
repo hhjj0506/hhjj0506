@@ -32,6 +32,13 @@ Using ROS 2 and PX4 to make a drone that autonomously navigates itself inside a 
 <br>
 A student-only community where you can talk about all things weightlifting related.
 
+### [I-Taxi](https://github.com/I-Taxi)
+![](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+<br>
+An app where students can find other people to share the taxi or car to get to their destination. Developed by [CRA](https://cra16.github.io/).
+
 ### PS / Coding Test Study
 ![](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
