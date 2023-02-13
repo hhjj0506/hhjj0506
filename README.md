@@ -8,19 +8,16 @@ I aspire to be a Backend Developer that can create and provide useful services t
 ![](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## 🚀 Ongoing Projects
 
 ### Drone 3D Mapping & Navigation in an Indoor Smart Farm
-![](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/PX4-88CE02.svg?&style=for-the-badge&logo=PX4&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 <br>
-Using ROS 2 and PX4 to make a drone that autonomously navigates itself inside a smart farm.
+Using  to make a drone that autonomously navigates itself inside a smart farm.
        Working with [Midbar](https://midbar.kr/).
 
 ### Strong Handong
@@ -32,6 +29,7 @@ Using ROS 2 and PX4 to make a drone that autonomously navigates itself inside a 
 A student-only community where you can talk about all things weightlifting related.
 
 ### [I-Taxi](https://github.com/I-Taxi)
+![](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
