@@ -17,7 +17,7 @@ I aspire to be a Backend Developer that can create and provide useful services t
 ![](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 <br>
-Using  to make a drone that autonomously navigates itself inside a smart farm.
+Using DJI Tello to make a drone that autonomously navigates itself inside a smart farm.
        Working with [Midbar](https://midbar.kr/).
 
 ### Strong Handong
