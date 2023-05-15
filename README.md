@@ -17,8 +17,11 @@ I aspire to be a Backend Developer that can create and provide useful services t
 ![](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 <br>
-Using DJI Tello to make a drone that autonomously navigates itself inside a smart farm.
-       Working with [Midbar](https://midbar.kr/).
+Using DJI Tello to make a drone that autonomously navigates itself inside a smart farm.  
+Working with [Midbar](https://midbar.kr/).  
+
+Developed flight routine & pose estimation using ArUco marker and Extended Kalman Filter.  
+Submitted a paper to ICROS 2023 - "실내 스마트팜에서 드론의 3D위치추정 및 비행 방법 연구"
 
 ### Strong Handong
 ![](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
@@ -34,7 +37,9 @@ A student-only community where you can talk about all things weightlifting relat
 ![](https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <br>
-An app where students can find other people to share the taxi or car to get to their destination. Developed by [CRA](https://cra16.github.io/).
+An app where students can find other people to share the taxi or car to get to their destination. Developed by [CRA](https://cra16.github.io/).  
+  
+Participated as a backend developer.
 
 ### PS / Coding Test Study
 ![](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
