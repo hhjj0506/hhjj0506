@@ -21,7 +21,7 @@ Using DJI Tello to make a drone that autonomously navigates itself inside a smar
 Working with [Midbar](https://midbar.kr/).  
 
 Developed flight routine & pose estimation using ArUco marker and Extended Kalman Filter.  
-Submitted a paper to ICROS 2023 - "실내 스마트팜에서 드론의 3D위치추정 및 비행 방법 연구"
+Submitted a paper to ICROS 2023 - "Research on 3D Position Estimation and Flight Methods for Drones in Indoor Smart Farms"
 
 ### Strong Handong
 ![](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
