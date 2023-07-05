@@ -5,7 +5,6 @@ I aspire to be a Backend Developer that can create and provide useful services t
 ## 💻 Interests
 
 ![](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
@@ -30,20 +29,24 @@ Participated as a Backend Developer.
 
 Also developed Chat List and Chat page for Frontend.
 
-### Strong Handong
+### Weightlifting Community
 ![](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <br>
-A student-only community where you can talk about all things weightlifting related.
+A community where you can talk about all things weightlifting related.  
+#### Functions
+- Google Login using OAuth2.0 & Next-Auth
+- Weightlifting Ranking System (Categorized in Sex, Age, Weight, Height, Place and etc.)
+- Badge & Achievement
 
 ### PS / Coding Test Study
-![](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ## 🚀 Previous Projects
 
-### Drone 3D Mapping & Navigation in an Indoor Smart Farm
+### 3D Position Estimation and Flight Methods for Drones in Indoor Smart Farms
 ![](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
@@ -53,7 +56,8 @@ Working with [Midbar](https://midbar.kr/).
 
 #### My Role
 Developed flight routine & pose estimation using ArUco marker and Extended Kalman Filter for obtaining drone's position.  
-Organized and participated in every flight tests.
+Organized and participated in every flight tests.  
+I can confidently say that I contributed the most (at least 80%) to the project.
 
 Submitted a paper to [ICROS 2023](http://2023.icros.org/) - "Research on 3D Position Estimation and Flight Methods for Drones in Indoor Smart Farms"
 
