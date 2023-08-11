@@ -59,7 +59,7 @@ Developed flight routine & pose estimation using ArUco marker and Extended Kalma
 Organized and participated in every flight tests.  
 I can confidently say that I contributed the most (at least 80%) to the project.
 
-Submitted a paper to [ICROS 2023](http://2023.icros.org/) - "Research on 3D Position Estimation and Flight Methods for Drones in Indoor Smart Farms"
+Submitted a paper to [ICROS 2023](http://2023.icros.org/) - "[Research on 3D Position Estimation and Flight Methods for Drones in Indoor Smart Farms](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480403)"
 
 ##
 <div>
